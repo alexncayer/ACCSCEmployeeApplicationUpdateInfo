@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='ACCSC250HWP13Application'
